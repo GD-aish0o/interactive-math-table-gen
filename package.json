@@ -1,10 +1,10 @@
 {
   "name": "math-table-loop",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "\"User interactive maths multiplication table creator\"",
-  "main": "index.js",
+  "main": "loop-4.js",
   "type":"module",
-  "bin":"main.js",
+  "bin":"loop-4.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
