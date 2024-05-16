@@ -1,0 +1,37 @@
+{
+  "name": "math-table-loop",
+  "version": "1.0.1",
+  "description": "\"User interactive maths multiplication table creator\"",
+  "main": "index.js",
+  "type":"module",
+  "bin":"main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "maths",
+    "mathematics",
+    "multiply",
+    "multiplication",
+    "cli",
+    "interactive",
+    "emscalc",
+    "davizzolla",
+    "npm_alcalc",
+    "@stdlib/math-base-ops-umul",
+    "arith",
+    "easy-math.js",
+    "math-expression-generator",
+    "string-math",
+    "frtavarescalc",
+    "math-exact",
+    "calc-simple-npm",
+    "multiply",
+    "math-base-ops-mul",
+    "math-iter-ops-multiply",
+    "loops",
+    "@stdlib"
+  ],
+  "author": "Aqsa Qazi (GD-aish0o)",
+  "license": "ISC"
+}
